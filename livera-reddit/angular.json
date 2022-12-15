@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "livera-reddit"
+  "defaultProject": "livera-reddit",
+  "cli": {
+    "analytics": "df8acb8b-fbdf-40e0-81b6-c90426613384"
+  }
 }
